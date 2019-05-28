@@ -1,0 +1,11 @@
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\bin\Debug\netcoreapp2.0\ClassicMovieMonsterProject.deps.json
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\bin\Debug\netcoreapp2.0\ClassicMovieMonsterProject.runtimeconfig.json
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\bin\Debug\netcoreapp2.0\ClassicMovieMonsterProject.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\bin\Debug\netcoreapp2.0\ClassicMovieMonsterProject.dll
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\bin\Debug\netcoreapp2.0\ClassicMovieMonsterProject.pdb
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\obj\Debug\netcoreapp2.0\ClassicMovieMonsterProject.csprojAssemblyReference.cache
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\obj\Debug\netcoreapp2.0\ClassicMovieMonsterProject.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\obj\Debug\netcoreapp2.0\ClassicMovieMonsterProject.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\obj\Debug\netcoreapp2.0\ClassicMovieMonsterProject.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\obj\Debug\netcoreapp2.0\ClassicMovieMonsterProject.dll
+C:\Users\mchittenden\source\repos\ClassicMovieMonsterProject\ClassicMovieMonsterProject\obj\Debug\netcoreapp2.0\ClassicMovieMonsterProject.pdb
